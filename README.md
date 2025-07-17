@@ -1,10 +1,6 @@
-Sure, I'll enhance the README.md to make it more appealing and visually attractive while maintaining its current structure and content. I'll focus on adding more engaging elements, improving readability, and making it even more vibrant\!
-
------
-
-\<p align="center"\>
-  \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code\&size=36\&pause=1000\&color=2D6CDF\&center=true\&vCenter=true\&width=900\&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad\!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome\!;Passionate+Data+Scientist](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist)" alt="Typing SVG" /\>
-\</p\>
+<p align="center"\>
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code\&size=36\&pause=1000\&color=2D6CDF\&center=true\&vCenter=true\&width=900\&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad\!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome\!;Passionate+Data+Scientist](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist)" alt="Typing SVG" /\>
+</p\>
 
 \<p align="center"\>
   \<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="60%" alt="Coding GIF" /\>
