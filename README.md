@@ -1,8 +1,3 @@
-Great! Since you already have the Excel dataset, I’ll create a professional and interactive README.md template tailored for your Power BI dashboard project, just like you've asked in the past. This README will assume that the dashboard analyzes a company's performance (financial, operational, or otherwise).
-
----
-
-Please **upload the Excel file** so I can:
 
 1. Understand the exact structure (KPIs, metrics, departments, time ranges, etc.)
 2. Customize the README with real insights and table/column names
