@@ -1,15 +1,3 @@
-
-1. Understand the exact structure (KPIs, metrics, departments, time ranges, etc.)
-2. Customize the README with real insights and table/column names
-3. Suggest specific Power BI visualizations used and described in the README
-
----
-
-In the meantime, here’s a **generic interactive README template** for your Power BI Company Performance Dashboard, which I’ll customize once I get your dataset:
-
----
-
-````markdown
 # 📊 Company Performance Dashboard - Power BI
 
 Welcome to the **Company Performance Dashboard**, an interactive and insightful Power BI project designed to track and visualize key performance indicators (KPIs) across the organization.
