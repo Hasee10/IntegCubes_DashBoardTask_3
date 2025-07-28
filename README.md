@@ -97,22 +97,10 @@ This dashboard empowers stakeholders to monitor trends, assess financial and ope
 
 **Muhammad Haseeb**
 *Data Analyst | Power BI Developer*
-📧 [haseeb@example.com](mailto:haseeb@example.com)
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 [ihaseebarshad10@gmail.com](mailto:ihaseebarshad10@gmail.com)
+🌐 [LinkedIn](https://linkedin.com/in/Hasee-Arshad)
 
 ---
 
 > *This project is part of my Power BI Portfolio. Feel free to fork, explore, and reach out for collaboration.*
 
-```
-
----
-
-### ✅ Next Step:
-Upload the Excel dataset here so I can:
-- Customize the KPIs, filters, and insights
-- Suggest better visuals
-- Fill in the preview screenshots placeholders
-
-Let me know if you want this README styled for **GitHub**, **Notion**, or **Tableau Public** too!
-```
